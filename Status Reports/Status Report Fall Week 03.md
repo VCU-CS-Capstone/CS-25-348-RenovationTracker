@@ -1,7 +1,7 @@
 # *CS 25-348 renovationtracker*
 
 **Students' Names:**
--Courtney Van - CS - Student Team Member
+* Courtney Van - CS - Student Team Member
 Jaidon Lightfoot - CS - Student Team Member
 Jonathan Natala - CS - Student Team Member
 Sterling Glasheen - CS - Student Team Member
