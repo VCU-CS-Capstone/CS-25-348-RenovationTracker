@@ -12,7 +12,7 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Document | Tasks | Accomplishments | Issues |
 |---|---|---|---|
 | Week 1 Status Report | Team contract and setting up repo | Finished team contract and set up the repo |  still haven't been able to meet with sponsor and advisor as they are setting up the meeting |
-| Week 2 Status Report | | |  |
+| Week 2 Status Report | GitHub Repo and meeting with sponsor | Finished all of the repo setup and met with sponsor | No issues this week |
 | Week 3 Status Report | | | |
 | Week 4 Status Report | | | |
 | Week 5 Status Report | | | |
