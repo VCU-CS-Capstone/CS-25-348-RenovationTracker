@@ -16,7 +16,7 @@
 
 ## 1) Accomplishments this week ##
    - Worked on setup for Lambda function to scrape images from listings and upload to S3
-   - Started integreating API Gateway trigger for Lambda function deployment
+   - Started integrating API Gateway trigger for Lambda function deployment
    - Continued defining workflow for listing description processing and integration with Sterling’s system
    - Classification model Lambda function set up to process images from S3
 
