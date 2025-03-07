@@ -20,7 +20,6 @@
    - Met on Teams to discuss progress
 
 ## 2) Milestones to be completed next week ##
-   - Two paths for front end UI to be implemented
    - Finalize UI
    - Work on finishing lambda functions
 
