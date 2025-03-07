@@ -19,6 +19,7 @@
    - Webscrapper running locally
    - Prompter running locally and in aws
    - Image Classifier running locally
+   - Front End Prototype was approved
 
 ## 2) Milestones to be completed next week ##
    - Integrate locally running code into aws
